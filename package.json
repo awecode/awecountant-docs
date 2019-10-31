@@ -5,6 +5,7 @@
     "deploy": "vuepress build; firebase deploy"
   },
   "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.0.0-rc.1",
     "vuepress": "^1.2.0"
   }
 }

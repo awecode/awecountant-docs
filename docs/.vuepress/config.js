@@ -16,6 +16,14 @@ module.exports = {
       ]
     },
   },
+  markdown: {
+    plugins: [
+      '@org/foo', // equals to @org/markdown-it-foo if exists
+      ['markdown-it-bar', {
+        // provide options here
+      }]
+    ]
+  },
   configureWebpack: {
     resolve: {
       alias: {
