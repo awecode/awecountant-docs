@@ -1,12 +1,18 @@
 {
+  "name": "awecountant-docs",
+  "license": "WTFPL",
   "scripts": {
     "firebase-setup": "firebase target:apply hosting awecountant-docs awecountant-docs",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "deploy": "vuepress build; firebase deploy"
+    "export": "vuepress export docs",
+    "deploy": "vuepress build docs; firebase deploy"
   },
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.0.0-rc.1",
     "vuepress": "^1.2.0"
+  },
+  "dependencies": {
+    "vuepress-plugin-export": "^0.2.0"
   }
 }
