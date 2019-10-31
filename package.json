@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "firebase-setup": "firebase target:apply hosting awecountant-docs awecountant-docs",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "deploy": "vuepress build; firebase deploy"

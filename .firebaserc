@@ -1,5 +1,14 @@
 {
   "projects": {
-    "default": "awecounting-manual"
+    "default": "awecountant"
+  },
+  "targets": {
+    "awecountant": {
+      "hosting": {
+        "awecountant-docs": [
+          "awecountant-docs"
+        ]
+      }
+    }
   }
 }
