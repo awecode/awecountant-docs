@@ -5,9 +5,6 @@ heroText: Awecountant
 tagline: Awecountant is your awesome accountant.
 actionText: Get Started →
 actionLink: /guide/
-# sidebar: auto
-# displayAllHeaders: true
-# sidebarDepth: 2
 
 features:
   - title: User Friendly
@@ -21,4 +18,4 @@ features:
 footer: Copyright © 2019 Awecode Solutions
 ---
 
-<!-- ![Accounting](~@assets/img/accounting.jpg) -->
+And many other features.
