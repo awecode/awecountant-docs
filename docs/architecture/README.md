@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # System Architecture
 
 The system is built as an SPA that uses REST APIs for communicating with the server. An end user needs a modern web-browser to use the system.

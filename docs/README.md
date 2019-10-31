@@ -5,9 +5,9 @@ heroText: Awecountant
 tagline: Awecountant is your awesome accountant.
 actionText: Get Started →
 actionLink: /guide/
-sidebar: auto
-displayAllHeaders: true
-sidebarDepth: 2
+# sidebar: auto
+# displayAllHeaders: true
+# sidebarDepth: 2
 
 features:
   - title: User Friendly

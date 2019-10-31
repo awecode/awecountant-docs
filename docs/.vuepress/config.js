@@ -5,7 +5,6 @@ module.exports = {
   description: "Documentation for the project Awecountant.",
   themeConfig: {
     lastUpdated: "Last Updated",
-    sidebar: "auto",
     displayAllHeaders: true,
     sidebarDepth: 2,
     nav: [
@@ -14,10 +13,10 @@ module.exports = {
       { text: "Modules", link: "/modules/" },
       { text: "Architecture", link: "/architecture/" },
       { text: "Awecountant", link: "https://awecountant.com" }
-    ]
-    // sidebar: {
-    //   "/sales/": ["", "sales-voucher"]
-    // }
+    ],
+    sidebar: {
+      "/guide/": ["", "add-items"]
+    }
   },
   markdown: {
     plugins: [

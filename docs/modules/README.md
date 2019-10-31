@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Modules and Sub-modules
 
 ## Base Modules
