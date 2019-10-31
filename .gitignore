@@ -1,5 +1,5 @@
 node_modules
 .firebase
 docs/.vuepress/dist
-.vuepress
+.vuepress/dist
 *.log
