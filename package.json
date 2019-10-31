@@ -1,7 +1,8 @@
 {
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "vuepress build; firebase deploy"
   },
   "devDependencies": {
     "vuepress": "^1.2.0"
