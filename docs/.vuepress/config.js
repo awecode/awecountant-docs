@@ -15,7 +15,7 @@ module.exports = {
       { text: "Awecountant", link: "https://awecountant.com" }
     ],
     sidebar: {
-      "/guide/": ["", "add-items"]
+      "/guide/": ["", "manage-items", "purchase-expense"]
     }
   },
   markdown: {
