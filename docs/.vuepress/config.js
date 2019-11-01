@@ -1,4 +1,12 @@
 const path = require("path");
+const fs = require("fs");
+
+function getFilesInDir(directoryName) {
+  let files = fs.readdirSync("docs/" + directoryName);
+  return files.map(function(file) {
+    return file === "index.md" ? "" : file;
+  });
+}
 
 module.exports = {
   title: "Awecountant: Docs",
@@ -15,20 +23,11 @@ module.exports = {
       { text: "Awecountant", link: "https://awecountant.com" }
     ],
     sidebar: {
-      "/guide/": ["", "manage-items", "purchase-expense"]
+      "/guide/": getFilesInDir("guide")
     }
   },
   markdown: {
-    plugins: [
-      "vuepress-plugin-export",
-      "@org/foo", // equals to @org/markdown-it-foo if exists
-      [
-        "markdown-it-bar",
-        {
-          // provide options here
-        }
-      ]
-    ]
+    plugins: ["vuepress-plugin-export"]
   },
   configureWebpack: {
     resolve: {
