@@ -1,7 +1,5 @@
 ---
-# sidebar: auto
-# sidebarDepth: 2
-next: add-items
+next: manage-items
 ---
 
 # Logging In
