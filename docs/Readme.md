@@ -19,3 +19,5 @@ footer: Copyright © 2019 Awecode Solutions
 ---
 
 And many other features.
+
+[Download PDF](/awecountant-docs.pdf)
