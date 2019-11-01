@@ -26,9 +26,9 @@ module.exports = {
       "/guide/": getFilesInDir("guide")
     }
   },
-  markdown: {
-    plugins: ["vuepress-plugin-export"]
-  },
+
+  plugins: ["vuepress-plugin-export"],
+
   configureWebpack: {
     resolve: {
       alias: {
