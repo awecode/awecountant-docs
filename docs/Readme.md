@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /accounting.jpg
+heroImage: /img/accounting.jpg
 heroText: Awecountant
 tagline: Awecountant is your awesome accountant.
 actionText: Get Started →
@@ -20,4 +20,4 @@ footer: Copyright © 2019 Awecode Solutions
 
 And many other features.
 
-[Download this documentation as single PDF](/awecountant-docs.pdf)
+[Download this documentation as single PDF.](/awecountant-docs.pdf)
