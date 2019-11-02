@@ -1,5 +1,5 @@
 ---
-next: purchase-expense
+next: index
 ---
 
 # Audit Log
