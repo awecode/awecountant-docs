@@ -1,5 +1,5 @@
 ---
-next: sales-invoice
+next: purchase-expense
 ---
 
 

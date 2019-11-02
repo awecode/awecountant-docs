@@ -1,5 +1,5 @@
 ---
-next: purchase-expense
+next: parties
 ---
 
 # Managing Items
