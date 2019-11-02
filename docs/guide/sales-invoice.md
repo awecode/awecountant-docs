@@ -1,5 +1,5 @@
 ---
-next: purchase-expense
+next: audit-log
 ---
 
 # Managing Sales Invoice
