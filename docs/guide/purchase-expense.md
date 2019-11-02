@@ -1,5 +1,5 @@
 ---
-next: sales-invoice
+next: debit-note
 ---
 
 # Purchase/Expense
