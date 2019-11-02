@@ -28,6 +28,10 @@ The system is built as an SPA that uses REST APIs for communicating with the ser
 - Nginx for serving static files
 - Ubuntu Server 16.04 as Server OS
 
+## ER Diagram
+
+![System Architecture](~@assets/img/er_daigram.png)
+
 ## Acronyms
 
 - SPA: Single Page Application
@@ -38,3 +42,4 @@ The system is built as an SPA that uses REST APIs for communicating with the ser
 - DBMS: DataBase Management System
 - WSGI: Web Server Gateway Interface
 - OS: Operating System
+- ER: Entity Relationship
