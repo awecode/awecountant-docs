@@ -2,29 +2,22 @@
 next: purchase-expense
 ---
 
-# Managing Audit Log
+# Audit Log
 
 View and export audit log
 
-## Listing Audit Log
-Visit [https://awecountant.com/items/list](https://awecountant.com/items/list "Item Listing") for item listing or go to **Inventory → Items** from left side menu
+## View Audit Log
+1. Visit [https://awecountant.com/audit-log/list](https://awecountant.com/audit-log/list "Audit Log") for item listing or go to **Inventory → Items** from left side menu
 
    ![Listing Items](~@assets/img/guide/item_listing.jpg)
 
-## Adding Items
-1. Click **ADD ITEM** button from top-right from [item listing](#listing-items) or visit [https://awecountant.com/items/create](https://awecountant.com/items/create)
+2. Click **DETAIL** button in **Actions** column for detail view
 
-2. Enter the necessary input in form
+	![Listing Items](~@assets/img/guide/audit_log_detail.jpg)
 
-	![Add Item Form](~@assets/img/guide/item_add_form.jpg)
+## Export Audit Log
+1. Visit [https://awecountant.com/audit-log/list](https://awecountant.com/audit-log/list "Audit Log") for item listing or go to **Inventory → Items** from left side menu
 
-3. Then click **CREATE** to add new item in inventory.
+   ![Listing Items](~@assets/img/guide/item_listing.jpg)
 
-## Updating Items
-1. Go to **Inventory → Items** from left side menu or visit [https://awecountant.com/items/list](https://awecountant.com/items/list "Item Listing") for item listing
-
-	![Listing Items](~@assets/img/guide/item_listing.jpg)
-
-2. Click **EDIT**  from *Actions* column
-
-3. Then update the necessary fields and click **UPDATE** button. 
+2. Click **EXPORT XLS** button at top-left of the page to export audit logs. Audit log file will be downloaded in your computer.
