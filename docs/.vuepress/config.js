@@ -23,7 +23,7 @@ module.exports = {
       { text: "Awecountant", link: "https://awecountant.com" }
     ],
     sidebar: {
-      "/guide/": getFilesInDir("guide")
+      "/guide/": ["","manage-items", "parties","purchase-expense","sales-invoice","audit-log"]
     }
   },
 
