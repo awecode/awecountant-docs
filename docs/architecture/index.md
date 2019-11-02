@@ -30,7 +30,7 @@ The system is built as an SPA that uses REST APIs for communicating with the ser
 
 ## ER Diagram
 
-![System Architecture](~@assets/img/er_daigram.png)
+![System Architecture](~@assets/img/er_diagram.png)
 
 ## Acronyms
 
