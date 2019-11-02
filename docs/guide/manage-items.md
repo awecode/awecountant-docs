@@ -29,7 +29,6 @@ Visit [https://awecountant.com/items/list](https://awecountant.com/items/list "I
 
 3. Then update the necessary fields and click **UPDATE** button. 
 
-## Deleting Items
 
 ## Item Category
 
