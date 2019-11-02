@@ -13,5 +13,5 @@ next: parties
 
 3. Click in Voucher Number of the particular transaction to view the sales invoice.
 
-	![Listing Items](~@assets/img/guide/sales_invoice_details.jpg)
+	![Sales Invoice Detail](~@assets/img/guide/sales_invoice_details.jpg)
 

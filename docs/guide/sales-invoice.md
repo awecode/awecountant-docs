@@ -12,7 +12,7 @@ Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales
    ![Listing Sales Invoices](~@assets/img/guide/sales_invoice_list.jpg)
 
 ## Adding Sales Items
-1. Click **NEW** button from top-right from [item listing](#listing-sales-invoices) or visit [https://awecountant.com/sales-voucher/create](https://awecountant.com/sales-voucher/create)
+1. Click **NEW** button from top-right from [sales invoice listing](#listing-sales-invoices) or visit [https://awecountant.com/sales-voucher/create](https://awecountant.com/sales-voucher/create)
 
 2. Enter the necessary input in create form
 

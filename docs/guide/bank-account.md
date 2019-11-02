@@ -12,7 +12,7 @@ Visit [https://awecountant.com/bank-account/list/](https://awecountant.com/bank-
    
 
 ## Adding Bank Account
-1. Click **NEW BANK ACCOUNTS** button from top-right from [item listing](#bank-account-listing) or visit [https://awecountant.com/bank-account/create](https://awecountant.com/bank-account/create "Create Bank Account")
+1. Click **NEW BANK ACCOUNTS** button from top-right from [bank account listing](#bank-account-listing) or visit [https://awecountant.com/bank-account/create](https://awecountant.com/bank-account/create "Create Bank Account")
 
 2. Enter the necessary input in form
 

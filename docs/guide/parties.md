@@ -12,7 +12,7 @@ Visit [https://awecountant.com/parties/list/](https://awecountant.com/parties/li
    ![Listing Items](~@assets/img/guide/parties_listing.jpg)
 
 ## Adding Party
-1. Click **NEW PARTY** button from top-right from [item listing](#party-listing) or visit [https://awecountant.com/parties/create](https://awecountant.com/parties/create)
+1. Click **NEW PARTY** button from top-right from [party listing](#party-listing) or visit [https://awecountant.com/parties/create](https://awecountant.com/parties/create)
 
 2. Enter the necessary input in form
 

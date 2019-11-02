@@ -11,7 +11,7 @@ Visit [https://awecountant.com/purchase-voucher/list/](https://awecountant.com/p
    ![Listing Items](~@assets/img/guide/purchase_invoice_listing.jpg)
 
 ## Adding Purchase Invoice
-1. Click **NEW PURCHASE VOUCHER** button from top-right from [item listing](#purchase-invoice-listing) or visit [https://awecountant.com/purchase-voucher/create](https://awecountant.com/purchase-voucher/create "Create Purchase Voucher")
+1. Click **NEW PURCHASE VOUCHER** button from top-right from [purchase invoicce listing](#purchase-invoice-listing) or visit [https://awecountant.com/purchase-voucher/create](https://awecountant.com/purchase-voucher/create "Create Purchase Voucher")
 
 2. Enter the necessary input in form
 

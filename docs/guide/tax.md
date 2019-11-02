@@ -11,7 +11,7 @@ Visit [https://awecountant.com/taxes/list/](https://awecountant.com/taxes/list/ 
    ![Listing Tax Schemes](~@assets/img/guide/tax_schemes_listing.jpg)
 
 ## Adding Tax Schemes
-1. Click **NEW TAX SCHEME** button from top-right from [item listing](#tax-schemes-listing) or visit [https://awecountant.com/taxes/create](https://awecountant.com/taxes/create "Create Tax Scheme")
+1. Click **NEW TAX SCHEME** button from top-right from [tax scheme listing](#tax-schemes-listing) or visit [https://awecountant.com/taxes/create](https://awecountant.com/taxes/create "Create Tax Scheme")
 
 2. Enter the necessary input in form
 

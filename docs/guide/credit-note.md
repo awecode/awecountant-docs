@@ -1,45 +1,21 @@
 ---
-next: parties
+next: sales-invoice
 ---
 
-# Purchase/Expense
-Purchases and expenses are accounted with Purchase Voucher/Invoice.
+# Manage Credit Notes
 
-## Purchase Invoice Listing
-Visit [https://awecountant.com/purchase-voucher/list/](https://awecountant.com/purchase-voucher/list/ "Purchase Invoices Listing") or go to **Purchase → Purchase Invoices** from left side menu
+## Credit Notes Listing
+Visit [https://awecountant.com/credit-note/list/](https://awecountant.com/credit-note/list/ "Credit Notes Listing") or go to **Sales → Credit Notes** from left side menu
 
-   ![Listing Purchase Invoice](~@assets/img/guide/purchase_invoice_listing.jpg)
+   ![Listing Credit Notes](~@assets/img/guide/credit_notes_listing.jpg)
 
-## Adding Purchase Invoice
-1. Click **NEW PURCHASE VOUCHER** button from top-right from [item listing](#purchase-invoice-listing) or visit [https://awecountant.com/purchase-voucher/create](https://awecountant.com/purchase-voucher/create "Create Purchase Voucher")
+## Adding Credit Note
+1. Click **NEW CREDIT NOTE** button from top-right from [credit note listing](#credit-notes-listing) or visit [https://awecountant.com/credit-note/create](https://awecountant.com/credit-note/create "Create Credit Note")
+
+	![Listing Credit Notes](~@assets/img/guide/credit_notes_listing.jpg)
 
 2. Enter the necessary input in form
 
-	![Purchase Invoice Create](~@assets/img/guide/purchase_invoice_create_form.jpg)
+	![Add Item Form](~@assets/img/guide/credit_note_create_form.jpg)
 
-3. Then click **ISSUE** to generate purchase voucher.
-
-## Updating Purchase Invoice
-1. Visit [https://awecountant.com/purchase-voucher/list/](https://awecountant.com/purchase-voucher/list/ "Purchase Invoices Listing") or go to **Purchase → Purchase Invoices** from left side menu
-
-	![Listing Purchase Invoice](~@assets/img/guide/purchase_invoice_listing.jpg)
-
-2. Click **VIEW** from Actions column in the voucher you want to update
-	
-	![Purchase Invoice Detail](~@assets/img/guide/purchase_invoice_detail_view.jpg)
-
-3. Click **EDIT** button from bottom-left of the page
-
-4. Update the necessary fields and click **UPDATE** button from the bottom of the page.
-
-## Cancelling Purchase Invoice
-1. Visit [https://awecountant.com/purchase-voucher/list/](https://awecountant.com/purchase-voucher/list/ "Purchase Invoices Listing") or go to **Purchase → Purchase Invoices** from left side menu
-
-	![Listing Purchase Invoice](~@assets/img/guide/purchase_invoice_listing.jpg)
-
-2. Click **VIEW** from Actions column in the voucher you want to update
-	
-	![Purchase Invoice Detail](~@assets/img/guide/purchase_invoice_detail_view.jpg)
-
-3. Click **CANCEL** from bottom-left of the page.
-
+3. Then click **ISSUE** to create credit note
