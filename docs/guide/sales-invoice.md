@@ -21,7 +21,7 @@ Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales
 3. Then click **Issue** button from bottom-left of the page to issue sales invoice.
 
 ## Updating Sales Invoices
-1. isit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales-voucher/list "Sales Invoice Listing") for item listing or go to **Sales → Sales Invoices** from left side menu
+1. Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales-voucher/list "Sales Invoice Listing") for item listing or go to **Sales → Sales Invoices** from left side menu
 
    ![Listing Items](~@assets/img/guide/sales_invoice_list.jpg)
 
@@ -41,3 +41,77 @@ Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales
 	![Listing Items](~@assets/img/guide/sales_invoice_details.jpg)
 
 3. Then click **CANCEL** button at bottom-left of the page to cancel the sales invoice 
+
+## POS
+Visit [https://awecountant.com/pos/](https://awecountant.com/pos/ "POS") or go to **POS** from left side menu
+
+   ![Listing Items](~@assets/img/guide/pos.jpg)
+
+## Sales Book
+Visit [https://awecountant.com/sales-book/list/](https://awecountant.com/sales-book/list/ "Sales Book") or go to **Sales → Sales Book** from left side menu
+
+   ![Listing Items](~@assets/img/guide/sales_book.jpg)
+
+## Sales Settings
+1. Visit [https://awecountant.com/settings/sales/](https://awecountant.com/settings/sales/ "Sales Settings") or go to **Settings → Sales Settings** from left side menu
+
+   ![Listing Items](~@assets/img/guide/sales_settings.jpg)
+
+2. Check/uncheck the necessary and click **UPDATE** button at bottm-left of the page
+
+## Printing of Sales Invoice
+1. Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales-voucher/list "Sales Invoice Listing") for item listing or go to **Sales → Sales Invoices** from left side menu
+
+   ![Listing Items](~@assets/img/guide/sales_invoice_list.jpg)
+
+2. Click **VIEW**  from *Actions* column from the list
+
+	![Listing Items](~@assets/img/guide/sales_invoice_details.jpg)
+
+3. Click **PRINT COPY NO. 1** button at bottom.
+
+4. Then a print page will appear and click **PRINT** to print the sales invoice.
+
+	![Listing Items](~@assets/img/guide/sales_invoice_print.jpg)
+
+## Printing of Second Instance
+1. Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales-voucher/list "Sales Invoice Listing") for item listing or go to **Sales → Sales Invoices** from left side menu
+
+   ![Listing Items](~@assets/img/guide/sales_invoice_list.jpg)
+
+2. Click **VIEW**  from *Actions* column from the list
+
+	![Listing Items](~@assets/img/guide/sales_invoice_details.jpg)
+
+3. Click **PRINT COPY NO. 2** button at bottom of the page for the printing of second instance of sales invoice
+
+4. Then a print page will appear and click **PRINT** to print the sales invoice.
+
+	![Listing Items](~@assets/img/guide/sales_invoice_print.jpg)
+
+## Printing of Third Instance
+1. Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales-voucher/list "Sales Invoice Listing") for item listing or go to **Sales → Sales Invoices** from left side menu
+
+   ![Listing Items](~@assets/img/guide/sales_invoice_list.jpg)
+
+2. Click **VIEW**  from *Actions* column from the list
+
+	![Listing Items](~@assets/img/guide/sales_invoice_details.jpg)
+
+3. Click **PRINT COPY NO. 3** button at bottom of the page for the printing of third instance of sales invoice
+
+4. Then a print page will appear and click **PRINT** to print the sales invoice.
+
+	![Listing Items](~@assets/img/guide/sales_invoice_print.jpg)
+
+## Downloading PDF of Sales Invoice
+1. Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales-voucher/list "Sales Invoice Listing") for item listing or go to **Sales → Sales Invoices** from left side menu
+
+   ![Listing Items](~@assets/img/guide/sales_invoice_list.jpg)
+
+2. Click **VIEW**  from *Actions* column from the list
+
+	![Listing Items](~@assets/img/guide/sales_invoice_details.jpg)
+
+3. Click **DOWNLOAD COPY No. #** to download the PDF of sales invoice
+
