@@ -7,7 +7,7 @@ next: purchase-expense
 Maintain the party details like contact number, tax registration number, address, contact person details, etc
 
 ## Party Listing
-Visit [https://accountant.com/parties/list/](https://accountant.com/parties/list/ "Party Listing") or go to **Parties** from left side menu
+Visit [https://awecountant.com/parties/list/](https://awecountant.com/parties/list/ "Party Listing") or go to **Parties** from left side menu
 
    ![Listing Items](~@assets/img/guide/parties_listing.jpg)
 
