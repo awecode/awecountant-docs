@@ -1,5 +1,5 @@
 ---
-next: parties
+next: sales-invoice
 ---
 
 # Purchase/Expense
@@ -41,5 +41,5 @@ Visit [https://awecountant.com/purchase-voucher/list/](https://awecountant.com/p
 	
 	![Listing Items](~@assets/img/guide/purchase_invoice_detail_view.jpg)
 
-3. Click **CANCEL** from bottom-left of the page.
+3. Click **CANCEL** from bottom-left of the page
 

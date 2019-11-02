@@ -1,5 +1,5 @@
 ---
-next: parties
+next: inventory-ledger
 ---
 
 # Managing Items
