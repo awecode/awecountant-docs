@@ -23,7 +23,7 @@ module.exports = {
       { text: "Awecountant", link: "https://awecountant.com" }
     ],
     sidebar: {
-      "/guide/": ["","manage-items","inventory-ledger", "parties","bank-account","tax","purchase-expense","sales-invoice","audit-log"]
+      "/guide/": ["","manage-items","inventory-ledger", "parties","bank-account","tax","purchase-expense","debit-note","credit-note","sales-invoice","audit-log"]
     }
   },
 
