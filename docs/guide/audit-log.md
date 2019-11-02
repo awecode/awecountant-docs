@@ -1,5 +1,5 @@
 ---
-next: index
+next: manage-items
 ---
 
 # Audit Log
