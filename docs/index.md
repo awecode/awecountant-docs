@@ -18,6 +18,6 @@ features:
 footer: Copyright © 2019 Awecode Solutions
 ---
 
-And many other features.
+`Awecountant` is a web-based accounting system that provides user-friendly interfaces for vouching common business transactions while handling double-entry book-keeping in the background.
 
 [Download this documentation as single PDF.](/awecountant-docs.pdf)
