@@ -10,14 +10,14 @@ The system is built as an SPA that uses REST APIs for communicating with the ser
 
 ![System Architecture](~@assets/img/system_architecture.png)
 
-## Frontend (Client-side) Technologies:
+## Frontend (Client-side) Technologies
 
 - HTML5, CSS, Javascript
 - Vue.js as Javascript framework
 - Vuetify.js as design component framework
 - SCSS as stylesheet language
 
-## Back-end (Server-side) Technologies:
+## Back-end (Server-side) Technologies
 
 - Postgresql as DBMS
 - Python as programming language
@@ -27,6 +27,10 @@ The system is built as an SPA that uses REST APIs for communicating with the ser
 - Nginx for reverse proxying to web service
 - Nginx for serving static files
 - Ubuntu Server 16.04 as Server OS
+
+## ER Diagram
+
+[![ER Diagram](/img/er_diagram.png)](/img/er_diagram.png)
 
 ## Acronyms
 
@@ -38,3 +42,4 @@ The system is built as an SPA that uses REST APIs for communicating with the ser
 - DBMS: DataBase Management System
 - WSGI: Web Server Gateway Interface
 - OS: Operating System
+- ER: Entity Relationship
