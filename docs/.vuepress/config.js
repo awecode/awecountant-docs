@@ -13,6 +13,11 @@ module.exports = {
   description: "Documentation for the project Awecountant.",
   themeConfig: {
     lastUpdated: "Last Updated",
+    repo: "awecode/awecountant-docs",
+    // repoLabel: "Contribute!",
+    docsDir: "docs",
+    editLinks: true,
+    editLinkText: "Help us improve this page!",
     displayAllHeaders: true,
     sidebarDepth: 2,
     nav: [
@@ -23,7 +28,19 @@ module.exports = {
       { text: "Awecountant", link: "https://awecountant.com" }
     ],
     sidebar: {
-      "/guide/": ["","manage-items","inventory-ledger", "parties","bank-account","tax","purchase-expense","debit-note","credit-note","sales-invoice","audit-log"]
+      "/guide/": [
+        "",
+        "manage-items",
+        "inventory-ledger",
+        "parties",
+        "bank-account",
+        "tax",
+        "purchase-expense",
+        "debit-note",
+        "credit-note",
+        "sales-invoice",
+        "audit-log"
+      ]
     }
   },
 
