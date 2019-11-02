@@ -9,7 +9,7 @@ Create, update and cancel sales invoice.
 ## Listing Sales Invoices
 Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales-voucher/list "Sales Invoice Listing") for item listing or go to **Sales → Sales Invoices** from left side menu
 
-   ![Listing Items](~@assets/img/guide/sales_invoice_list.jpg)
+   ![Listing Sales Invoices](~@assets/img/guide/sales_invoice_list.jpg)
 
 ## Adding Sales Items
 1. Click **NEW** button from top-right from [item listing](#listing-sales-invoices) or visit [https://awecountant.com/sales-voucher/create](https://awecountant.com/sales-voucher/create)
@@ -23,7 +23,7 @@ Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales
 ## Updating Sales Invoices
 1. Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales-voucher/list "Sales Invoice Listing") for item listing or go to **Sales → Sales Invoices** from left side menu
 
-   ![Listing Items](~@assets/img/guide/sales_invoice_list.jpg)
+   ![Listing Sales Invoices](~@assets/img/guide/sales_invoice_list.jpg)
 
 2. Click **VIEW**  from *Actions* column from the list
 
@@ -34,7 +34,7 @@ Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales
 ## Cancelling Sales Invoices
 1. Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales-voucher/list "Sales Invoice Listing") for item listing or go to **Sales → Sales Invoices** from left side menu
 
-   ![Listing Items](~@assets/img/guide/sales_invoice_list.jpg)
+   ![Listing Sales Invoices](~@assets/img/guide/sales_invoice_list.jpg)
 
 2. Click **VIEW**  from *Actions* column from the list
 
@@ -62,7 +62,7 @@ Visit [https://awecountant.com/sales-book/list/](https://awecountant.com/sales-b
 ## Printing of Sales Invoice
 1. Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales-voucher/list "Sales Invoice Listing") for item listing or go to **Sales → Sales Invoices** from left side menu
 
-   ![Listing Items](~@assets/img/guide/sales_invoice_list.jpg)
+   ![Listing Sales Invoices](~@assets/img/guide/sales_invoice_list.jpg)
 
 2. Click **VIEW**  from *Actions* column from the list
 
@@ -77,7 +77,7 @@ Visit [https://awecountant.com/sales-book/list/](https://awecountant.com/sales-b
 ## Printing of Second Instance
 1. Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales-voucher/list "Sales Invoice Listing") for item listing or go to **Sales → Sales Invoices** from left side menu
 
-   ![Listing Items](~@assets/img/guide/sales_invoice_list.jpg)
+   ![Listing Sales Invoices](~@assets/img/guide/sales_invoice_list.jpg)
 
 2. Click **VIEW**  from *Actions* column from the list
 
@@ -92,7 +92,7 @@ Visit [https://awecountant.com/sales-book/list/](https://awecountant.com/sales-b
 ## Printing of Third Instance
 1. Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales-voucher/list "Sales Invoice Listing") for item listing or go to **Sales → Sales Invoices** from left side menu
 
-   ![Listing Items](~@assets/img/guide/sales_invoice_list.jpg)
+   ![Listing Sales Invoices](~@assets/img/guide/sales_invoice_list.jpg)
 
 2. Click **VIEW**  from *Actions* column from the list
 
@@ -107,7 +107,7 @@ Visit [https://awecountant.com/sales-book/list/](https://awecountant.com/sales-b
 ## Downloading PDF of Sales Invoice
 1. Visit [https://awecountant.com/sales-voucher/list](https://awecountant.com/sales-voucher/list "Sales Invoice Listing") for item listing or go to **Sales → Sales Invoices** from left side menu
 
-   ![Listing Items](~@assets/img/guide/sales_invoice_list.jpg)
+   ![Listing Sales Invoices](~@assets/img/guide/sales_invoice_list.jpg)
 
 2. Click **VIEW**  from *Actions* column from the list
 
