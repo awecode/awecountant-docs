@@ -4,7 +4,7 @@ next: sales-invoice
 
 # Manage Credit Notes
 
-## Credit Notes Listing
+## Listing Credit Notes
 Visit [https://awecountant.com/credit-note/list/](https://awecountant.com/credit-note/list/ "Credit Notes Listing") or go to **Sales → Credit Notes** from left side menu
 
    ![Listing Credit Notes](~@assets/img/guide/credit_notes_listing.jpg)

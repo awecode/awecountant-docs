@@ -4,7 +4,7 @@ next: credit-note
 
 # Manage Debit Notes
 
-## Debit Notes Listing
+## Listing Debit Notes 
 Visit [https://awecountant.com/debit-note/list/](https://awecountant.com/debit-note/list/ "Debit Notes Listing") or go to **Purchase → Debit Notes** from left side menu
 
    ![Listing Debit Notes](~@assets/img/guide/debit_note_listing.jpg)
