@@ -7,17 +7,20 @@ next: manage-items
 View and export audit log
 
 ## View Audit Log
-1. Visit [https://awecountant.com/audit-log/list](https://awecountant.com/audit-log/list "Audit Log") for item listing or go to **Inventory → Items** from left side menu
+1. From navigation drawer, browse to `Settings` → `Audit Logs`.  
+Direct link: [https://awecountant.com/audit-log/list](https://awecountant.com/audit-log/list "Audit Log")
 
-   ![Listing Audit Log](~@assets/img/guide/item_listing.jpg)
+   ![Listing Audit Log](~@assets/img/guide/audit_log_listing.jpg)
 
-2. Click **DETAIL** button in **Actions** column for detail view
+2. Click `DETAIL` button in **Actions** column for detail view.
 
 	![Listing Items](~@assets/img/guide/audit_log_detail.jpg)
 
 ## Export Audit Log
-1. Visit [https://awecountant.com/audit-log/list](https://awecountant.com/audit-log/list "Audit Log") for item listing or go to **Inventory → Items** from left side menu
+1. From navigation drawer, browse to `Settings` → `Audit Logs`.  
+Direct link: [https://awecountant.com/audit-log/list](https://awecountant.com/audit-log/list "Audit Log")
 
-   ![Listing Audit Log](~@assets/img/guide/item_listing.jpg)
+   ![Listing Audit Log](~@assets/img/guide/audit_log_listing.jpg)
 
-2. Click **EXPORT XLS** button at top-left of the page to export audit logs. Audit log file will be downloaded in your computer.
+2. Click `EXPORT XLS` button at top-left of the page to export audit logs. 
+Audit log file `audit_logs.xlsx` will be downloaded in download location of the computer.

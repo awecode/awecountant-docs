@@ -5,10 +5,10 @@ next: tax
 # Bank Accounts
 Manage bank accounts associated with the parties, company.
 
-## Bank Account Listing
+## Listing Bank Account 
 Visit [https://awecountant.com/bank-account/list/](https://awecountant.com/bank-account/list/ "Bank Account Listing") or go to **Bank → Bank Accounts** from left side menu
 	
-![Bank Account List](~@assets/img/guide/bank_account_list.jpg)
+![Bank Account Listing](~@assets/img/guide/bank_account_list.jpg)
    
 
 ## Adding Bank Account
@@ -23,11 +23,11 @@ Visit [https://awecountant.com/bank-account/list/](https://awecountant.com/bank-
 ## Updating Bank Account
 1. Visit [https://awecountant.com/bank-account/list/](https://awecountant.com/bank-account/list/ "Bank Account Listing") or go to **Bank → Bank Accounts** from left side menu
 	
-![Bank Account List](~@assets/img/guide/bank_account_list.jpg)
+![Bank Account Listing](~@assets/img/guide/bank_account_list.jpg)
 
 2. Click **EDIT** from Actions column in the voucher you want to update
 	
-	![Listing Items](~@assets/img/guide/bank_account_update.jpg)
+	![Updating Bank Account](~@assets/img/guide/bank_account_update.jpg)
 
 3. Update the necessary fields and click **UPDATE** button from the bottom-left of the page.
 
