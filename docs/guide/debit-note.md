@@ -31,6 +31,6 @@ Direct link: [https://awecountant.com/debit-note/list/](https://awecountant.com/
 	
 	![Listing Debit Notes](~@assets/img/guide/debit_note_listing.jpg)
 
-2. Click `EXPORT XLS` button top-right to export purchase expenses.
+2. Click `EXPORT XLS` button top-right to export debit notes.
 
 3. Check your download location in computer for the file name `debit_notes.xlsx`.
