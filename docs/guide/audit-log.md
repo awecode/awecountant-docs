@@ -12,7 +12,7 @@ Direct link: [https://awecountant.com/audit-log/list](https://awecountant.com/au
 
    ![Listing Audit Log](~@assets/img/guide/audit_log_listing.jpg)
 
-2. Click `DETAIL` button in **Actions** column for detail view
+2. Click `DETAIL` button in **Actions** column for detail view.
 
 	![Listing Items](~@assets/img/guide/audit_log_detail.jpg)
 
