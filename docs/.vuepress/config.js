@@ -39,7 +39,8 @@ module.exports = {
         "debit-note",
         "credit-note",
         "sales-invoice",
-        "audit-log"
+        "audit-log",
+        "data-backup"
       ]
     }
   },
